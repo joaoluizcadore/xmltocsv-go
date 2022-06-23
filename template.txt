@@ -1,0 +1,3 @@
+NAME;//person/name;TEXT
+AGE;//person/age;TEXT
+ENABLED;//person/enabled;ATTR
